@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Highclickers\\.nuget\\packages\\": {},
+    "C:\\Users\\Highclickers\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Highclickers\\Documents\\VehicleTest\\VehicleTest.csproj",
+      "projectName": "VehicleTest",
+      "projectPath": "C:\\Users\\Highclickers\\Documents\\VehicleTest\\VehicleTest.csproj",
+      "packagesPath": "C:\\Users\\Highclickers\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Highclickers\\Documents\\VehicleTest\\.mono\\temp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Users\\Highclickers\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Highclickers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://packages.stride3d.net/nuget": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

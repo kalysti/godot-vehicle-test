@@ -1,0 +1,8 @@
+C:\Users\Highclickers\Documents\VehicleTest\.mono\temp\bin\Debug\VehicleTest.dll
+C:\Users\Highclickers\Documents\VehicleTest\.mono\temp\bin\Debug\VehicleTest.pdb
+C:\Users\Highclickers\Documents\VehicleTest\.mono\temp\obj\Debug\VehicleTest.csprojAssemblyReference.cache
+C:\Users\Highclickers\Documents\VehicleTest\.mono\temp\obj\Debug\VehicleTest.AssemblyInfoInputs.cache
+C:\Users\Highclickers\Documents\VehicleTest\.mono\temp\obj\Debug\VehicleTest.AssemblyInfo.cs
+C:\Users\Highclickers\Documents\VehicleTest\.mono\temp\obj\Debug\VehicleTest.csproj.CoreCompileInputs.cache
+C:\Users\Highclickers\Documents\VehicleTest\.mono\temp\obj\Debug\VehicleTest.dll
+C:\Users\Highclickers\Documents\VehicleTest\.mono\temp\obj\Debug\VehicleTest.pdb
